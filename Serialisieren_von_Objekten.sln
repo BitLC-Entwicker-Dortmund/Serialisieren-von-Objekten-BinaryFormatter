@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialisieren_von_Objekten", "Serialisieren_von_Objekten\Serialisieren_von_Objekten.csproj", "{FAB29B80-7B74-443A-8ABA-89C1073EDD5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB29B80-7B74-443A-8ABA-89C1073EDD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB29B80-7B74-443A-8ABA-89C1073EDD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB29B80-7B74-443A-8ABA-89C1073EDD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB29B80-7B74-443A-8ABA-89C1073EDD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47DA2C99-1741-4205-8945-23243C3F80AC}
+	EndGlobalSection
+EndGlobal
